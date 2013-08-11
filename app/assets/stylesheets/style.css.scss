@@ -1,0 +1,41 @@
+
+/***************************NAVIGATION*************************/
+
+ul#navigation-menu {
+    height: 55px;
+}
+
+ul#navigation-menu {
+	li.tab {
+	    float: left;
+	    height: 55px;
+	    width: 170px;
+	    margin-right: 1px;
+	    display: block;
+	    background-color: orange;
+	    @include border-radius(5px 5px 0 0);
+	    a{
+	    	//color: black;
+	    	background-color: #5C676C;
+	    	display: block;
+	    	height: 55px;
+	    	margin-top: 5px;
+	    	text-align: center;
+	    	padding-top: 12px;
+	    	@include border-radius(5px 5px 0 0);
+	    	@include transition(background-color, 0.7s);
+	    	&:hover{
+	    		background-color: white;
+	    	}
+	    	i{
+	    		position: relative;
+				top: 2px;
+	    	}
+	    }
+	    a.active{
+	   		background-color: white;
+	    }
+	}
+}
+
+

@@ -1,0 +1,40 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+div#tab-container{
+	ul.etabs{
+		li#tab{
+			display: inline-block;
+		}
+		position: relative;
+		top: 15px;
+	}
+	section#articles{
+		padding: 20px 10px;
+		background-color: #CCFAFC;
+		height: 600px;
+		article#portfolio, article#contact, article#documents{
+			display: none;
+		}
+		article#profile{
+			height: 500px;
+			background-color: white;
+		}
+		article#portfolio{
+			height: 500px;
+			background-color: blue;
+		}
+		article#contact{
+			height: 500px;
+			background-color: green;
+		}
+		article#documents{
+			height: 500px;
+			background-color: yellow;
+		}
+	}
+	
+
+}
