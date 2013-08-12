@@ -4,8 +4,13 @@ $ ->
 	###### initialize Pretty Photos ######
 
 	$("a[rel^='prettyPhoto']").prettyPhoto({
-		callback: ->
-			alert 'hh'
+		deeplinking: false,
+		social_tools: ''
+		#changepicturecallback: ->
+		#	window.location.href = "#portfolio"
+		#callback: ->
+			#alert 'hh'
+			#window.location.href = "#portfolio"
 	})
 		
 	###### easyTabs callback ######
@@ -58,6 +63,7 @@ progress = ->
 window.startup = ->
 	$('.meter.test').animate { width: "0%" }, 0, ->
 		$('.meter.test').animate({ width: "80%" }, 600)
+		$('.meter.test2').animate({ width: "80%" }, 600)
 
 
 	

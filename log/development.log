@@ -89668,3 +89668,2317 @@ Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 18:41:12 +0200
 
 
 Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 18:41:12 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.3ms)
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 423ms (Views: 421.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:26:45 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:26:49 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:26:50 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:02 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:02 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:15 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:16 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.7ms)
+  Rendered home/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 334ms (Views: 333.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:27:29 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:37 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:38 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:41 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:43 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:54 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:27:54 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:28:07 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:28:07 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:28:12 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:28:13 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:30:14 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 337ms (Views: 336.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:15 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:20 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:20 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:23 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:26 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 22ms (Views: 21.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:32 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:30:33 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:37 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:37 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:43 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:47 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:51 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:30:55 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.5ms)
+  Rendered home/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 20ms (Views: 19.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:04 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:12 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:13 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:23 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:23 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:31 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:31 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:42 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:42 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:51 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:52 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.3ms)
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:31:57 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:32:11 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.5ms)
+  Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 23ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:32:12 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:32:16 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:32:17 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:32:21 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:32:21 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:32:29 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:32:30 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:33:31 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.1ms)
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 353ms (Views: 352.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:33:32 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:33:36 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:33:37 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:33:42 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:33:42 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:33:52 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:33:52 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:34:00 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:34:01 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:34:49 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:34:49 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:34:58 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 17ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:34:58 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:58 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:58 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:58 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:58 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:58 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:58 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:34:59 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:07 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:35:09 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:10 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:35:12 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:12 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:12 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:12 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:12 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:13 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:35:31 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.3ms)
+  Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:31 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:31 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:31 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:31 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:35:31 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:31 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:32 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:35:36 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:35:40 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 16ms (Views: 15.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:35:40 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:40 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:40 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:40 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:35:41 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.3ms)
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:36:02 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:36:03 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:37:07 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:07 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:07 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:07 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:37:07 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:07 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:07 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:08 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:38 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.3ms)
+  Rendered home/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:56 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:37:57 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:38:20 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.1ms)
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 404ms (Views: 403.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:21 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:38:23 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.4ms)
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 18ms (Views: 16.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:38:23 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:23 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:23 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:38:24 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:38:37 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:38:38 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:38:46 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:38:46 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-12 19:39:26 +0200
+Processing by HomeController#index as HTML
+  Rendered home/_portfolio.html.erb (1.8ms)
+  Rendered home/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 339ms (Views: 338.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/vendor/custom.modernizr.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.alerts.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.forms.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.cookie.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.section.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/foundation.placeholder.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/jquery.hashchange.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/jquery.browser.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/jquery.easytabs.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/jquery.prettyPhoto.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-12 19:39:27 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:40:10 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:40:10 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:40:21 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:40:21 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:40:26 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:40:28 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:41:24 +0200
+
+
+Started GET "/assets/rgc.jpg" for 127.0.0.1 at 2013-08-12 19:41:24 +0200
