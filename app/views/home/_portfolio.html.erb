@@ -1,0 +1,55 @@
+
+<section class="portfolio-wrapper">
+
+	<ul id="filters" class="filtre">
+		<li><a class="button secondary round" href="#portfolio" data-filter="*">show all</a></li>
+		<li><a class="button secondary round" href="#portfolio" data-filter=".perso">premier</a></li>
+		<li><a class="button secondary round" href="#portfolio" data-filter=".social">second</a></li>
+		<li><a class="button secondary round" href="#portfolio" data-filter=".divers">troisieme</a></li>
+	</ul>
+
+	<ul id="container" class="large-block-grid-4">
+
+		<li class=" perso">
+			<%= link_to( (image_tag 'rgc.jpg'), "/assets/rgc.jpg", :class => "th radius", :rel => "prettyPhoto[gallery]" ) %>
+			<div class="thumb-info"><p>titre image</p></div>
+		</li>
+
+		<li class="item social">
+			<%= link_to( (image_tag 'rgc.jpg'), "/", :class => "th radius" ) %>
+			<div class="thumb-info"><p>titre image</p></div>
+		</li>
+
+		<li class="item divers">
+			<%= link_to( (image_tag 'rgc.jpg'), "/", :class => "th radius" ) %>
+			<div class="thumb-info"><p>titre image</p></div>
+		</li>
+
+		<li class="item social">
+			<%= link_to( (image_tag 'rgc.jpg'), "/", :class => "th radius" ) %>
+			<div class="thumb-info"><p>titre image</p></div>
+		</li>
+
+		<li class="item perso">
+			<%= link_to( (image_tag 'rgc.jpg'), "/", :class => "th radius" ) %>
+			<div class="thumb-info"><p>titre image</p></div>
+		</li>
+
+		<li class="item divers">
+			<%= link_to( (image_tag 'rgc.jpg'), "/", :class => "th radius" ) %>
+			<div class="thumb-info"><p>titre image</p></div>
+		</li>
+
+		<li class="item social">
+			<%= link_to( (image_tag 'rgc.jpg'), "/", :class => "th radius" ) %>
+			<div class="thumb-info"><p>titre image</p></div>
+		</li>
+
+		<li class="item perso">
+			<%= link_to( (image_tag 'rgc.jpg'), "/", :class => "th radius" ) %>
+			<div class="thumb-info"><p>titre image</p></div>
+		</li>
+
+	</ul>
+
+</section>

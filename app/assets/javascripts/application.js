@@ -17,6 +17,8 @@
 //= require jquery.browser
 //= require jquery.hashchange.min
 //= require jquery.easytabs.min
+//= require jquery.isotope.min
+//= require jquery.prettyPhoto
 //= require home
 
 $(function(){ $(document).foundation(); });

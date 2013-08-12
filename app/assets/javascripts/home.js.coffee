@@ -1,45 +1,64 @@
-# Place all the behaviors and hooks related to the matching controller here.
-# All this logic will automatically be available in application.js.
-# You can use CoffeeScript in this file: http://coffeescript.org/
+
 $ ->
-	$('#premierButton').on 'click', clickPremier
-	$('#deuxiemeButton').on 'click', clickDeuxieme
-	$('#troisiemeButton').on 'click', clickTroisieme
 
-clickPremier = (e) ->
+	###### initialize Pretty Photos ######
+
+	$("a[rel^='prettyPhoto']").prettyPhoto({
+		callback: ->
+			alert 'hh'
+	})
+		
+	###### easyTabs callback ######
+
+	$('#tab-container').bind "easytabs:after", ->
+    	progress()
+    	$container.isotope({ filter: "*" })
+
+    $('#tab-container').bind "easytabs:before", ->
+    	$('.meter').animate { width: "0%" }, 0
+    	$container.isotope({ filter: "aucun" })
+
+    ###### easyTabs setup ######
+
+    $('#tab-container').easytabs {
+		transitionOut: "slideUp",
+		transitionIn: "slideDown"
+    }
+
+    ###### reset Progress bars when switching panels ######
+
+	#$('a#perfil').on 'click', resetProgressPerfil
+	#$('a#portfo').on 'click', resetProgress
+	#$('a#documentos').on 'click', resetProgress
+	#$('a#contactos').on 'click', resetProgress
+
+	###### isotope setup ######
+
+	$container = $('#container')
+	$container.isotope({ })
+	$('#filters a').click ->
+        selector = $(this).attr('data-filter')
+        $container.isotope({ filter: selector })
+        return false
+    
+    ###### Fonctions diverses ######
+
+resetProgress = (e) ->
 	e.preventDefault()
-	if $(".premier").css("display") == "none"
-		switchPanel(e, ".premier")
+	$('.meter').animate { width: "0%" }, 0
 
-clickDeuxieme = (e) ->
+resetProgressPerfil = (e) ->
 	e.preventDefault()
-	if $(".deuxieme").css("display") == "none"
-		switchPanel(e, ".deuxieme")
+	$('.meter').animate { width: "0%" }, 0
 
-clickTroisieme = (e) ->
-	e.preventDefault()
-	if $(".troisieme").css("display") == "none"
-		switchPanel(e, ".troisieme")
+progress = ->
+	#$('.meter').css { width: "0%" }
+	$('.meter').animate({ width: "80%" }, 600)
 
-switchPanel = (e, clickedButton) ->
-	e.preventDefault()
-	if $(".premier").css("display") == "block"
-		$(".premier").slideUp 500, ->
-			$(clickedButton).slideDown()
-	if $(".deuxieme").css("display") == "block"
-		$(".deuxieme").slideUp 500, ->
-			$(clickedButton).slideDown()
-	if $(".troisieme").css("display") == "block"
-		$(".troisieme").slideUp 500, ->
-			$(clickedButton).slideDown()
+window.startup = ->
+	$('.meter.test').animate { width: "0%" }, 0, ->
+		$('.meter.test').animate({ width: "80%" }, 600)
 
 
-
-
-
-
-
-
-
-
-
+	
+            
