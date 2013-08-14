@@ -14,11 +14,11 @@
 //= require jquery_ujs
 //= require foundation
 //= require turbolinks
-//= require jquery.browser
-//= require jquery.hashchange.min
-//= require jquery.easytabs.min
-//= require jquery.isotope.min
-//= require jquery.prettyPhoto
+//= require lib/jquery.browser
+//= require lib/jquery.hashchange.min
+//= require lib/jquery.easytabs.min
+//= require lib/jquery.isotope.min
+//= require lib/jquery.prettyPhoto
 //= require home
 
 $(function(){ $(document).foundation(); });

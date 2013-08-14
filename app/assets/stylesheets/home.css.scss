@@ -14,24 +14,24 @@ div#tab-container{
 	section#articles{
 		padding: 20px 10px;
 		background-color: #CCFAFC;
-		height: 600px;
+		height: 750px;
 		article#portfolio, article#contact, article#documents{
 			display: none;
 		}
 		article#profile{
-			height: 500px;
+			height: 700px;
 			background-color: white;
 		}
 		article#portfolio{
-			height: 570px;
+			height: 700px;
 			background-color: rgb(242, 245, 214);
 		}
 		article#contact{
-			height: 500px;
+			height: 700px;
 			background-color: green;
 		}
 		article#documents{
-			height: 500px;
+			height: 700px;
 			background-color: yellow;
 		}
 	}
