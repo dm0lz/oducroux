@@ -2,6 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+section.index{
+	margin-top: 50px;
+}
 
 div#tab-container{
 	ul.etabs{
@@ -12,27 +15,27 @@ div#tab-container{
 		top: 15px;
 	}
 	section#articles{
-		padding: 20px 10px;
+		//padding: 20px 10px;
+		padding: 0 20px 0 20px;
 		background-color: #CCFAFC;
 		height: 750px;
 		article#portfolio, article#contact, article#documents{
 			display: none;
 		}
-		article#profile{
-			height: 700px;
-			background-color: white;
-		}
 		article#portfolio{
 			height: 700px;
 			background-color: rgb(242, 245, 214);
+			padding-top: 15px;
 		}
 		article#contact{
 			height: 700px;
 			background-color: green;
+			padding-top: 15px;
 		}
 		article#documents{
 			height: 700px;
 			background-color: yellow;
+			padding: 15px 15px;
 		}
 	}
 	

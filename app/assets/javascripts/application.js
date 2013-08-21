@@ -19,6 +19,7 @@
 //= require lib/jquery.easytabs.min
 //= require lib/jquery.isotope.min
 //= require lib/jquery.prettyPhoto
+//= require lib/gmaps
 //= require home
 
 $(function(){ $(document).foundation(); });
