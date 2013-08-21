@@ -13,6 +13,7 @@ article#profile{
 			top: 30px;
 			font-size: 2em;
 			font-weight: bold;
+			color: rgb(146, 113, 70);
 		}
 		h4{
 			position: relative;
@@ -21,18 +22,24 @@ article#profile{
 		}
 	}
 	.left{
-		background:green; 
-		height: 350px;
+		background:#C0D2D3; 
+		height: 540px;
 		.leftcontent{
 			//text-align: center;
 			padding: 20px 40px;
+			h4{
+				color: #4C8EA8;
+			}
 		}
 	}
 	.right{
-		background:rgb(228, 228, 228); 
-		height: 350px;
+		background:#DCF8B2; 
+		height: 540px;
 		.textcontent{
 			padding: 20px 40px;
+			h3{
+				color: #6f6f6f;
+			}
 		}
 	}
 }
