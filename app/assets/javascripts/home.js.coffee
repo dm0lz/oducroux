@@ -41,7 +41,8 @@ $ ->
 
     $('#tab-container').easytabs {
 		transitionOut: "slideUp",
-		transitionIn: "slideDown"
+		transitionIn: "slideDown",
+		updateHash: false
     }
 
     ###### reset Progress bars when switching panels ######

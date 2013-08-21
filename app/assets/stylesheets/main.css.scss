@@ -11,7 +11,9 @@ body{
 	//background: -ms-linear-gradient(top,  #f6e6b4 0%,#ed9017 100%); /* IE10+ */
 	//background: linear-gradient(to bottom,  #f6e6b4 0%,#ed9017 100%); /* W3C */
 	//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6e6b4', endColorstr='#ed9017',GradientType=0 ); /* IE6-9 */
-	background: #f2f5d6;
+	
+	//background: #f2f5d6;
+	background: url('fond.png') repeat;
 
 	height: 100%;
 }

@@ -1,17 +1,24 @@
 
-section.portfolio-wrapper{
+article#portfolio{
 
-	padding: 20px 10px;
+	height: 700px;
+	background-color: rgb(242, 245, 214);
+	padding-top: 15px;
 
-	ul.filtre{
-		li{
-			display: inline-block;
+	section.portfolio-wrapper{
+
+		padding: 20px 10px;
+
+		ul.filtre{
+			li{
+				display: inline-block;
+			}
 		}
-	}
 
-	div.thumb-info{
-		p{
-			text-align: center;
+		div.thumb-info{
+			p{
+				text-align: center;
+			}
 		}
 	}
 }
