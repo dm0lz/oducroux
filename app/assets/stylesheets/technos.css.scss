@@ -1,20 +1,20 @@
 article#technologies{
-	height: 900px;
+	height: 1860px;
 	background-color: rgb(242, 245, 214);
 	padding: 15px 15px;
-
 	section.skills{
 		padding: 20px;
+		p{
+			text-align: center;
+		}
 		h4{
 			text-align: center;
 
 		}
-		article.skillset{
+		article.skillset, .skillset1, .skillset2, .skillset3, .skillset4, .skillset5{
 			margin-bottom: 30px;
 		}
-		article.skillset1{
-			margin-bottom: 30px;
-		}
+
 
 	}
 }

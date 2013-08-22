@@ -73,12 +73,37 @@ resetProgressPerfil = (e) ->
 
 progress = ->
 	#$('.meter').css { width: "0%" }
-	$('.meter').animate({ width: "80%" }, 600)
+	$('.meter.ruby').animate({ width: "90%" }, 600)
+	$('.meter.javascript').animate({ width: "80%" }, 600)
+	$('.meter.html5').animate({ width: "90%" }, 600)
+	$('.meter.css3').animate({ width: "90%" }, 600)
+	$('.meter.ror').animate({ width: "90%" }, 600)
+	$('.meter.sinatra').animate({ width: "90%" }, 600)
+	$('.meter.jquery').animate({ width: "90%" }, 600)
+	$('.meter.ajax').animate({ width: "90%" }, 600)
+	$('.meter.backbone').animate({ width: "55%" }, 600)
+	$('.meter.angular').animate({ width: "65%" }, 600)
+	$('.meter.mysql').animate({ width: "90%" }, 600)
+	$('.meter.pg').animate({ width: "75%" }, 600)
+	$('.meter.mongo').animate({ width: "75%" }, 600)
+	$('.meter.redis').animate({ width: "60%" }, 600)
+	$('.meter.linux').animate({ width: "95%" }, 600)
+	$('.meter.admin').animate({ width: "80%" }, 600)
+	$('.meter.networking').animate({ width: "80%" }, 600)
+	$('.meter.security').animate({ width: "85%" }, 600)
+	$('.meter.ps').animate({ width: "75%" }, 600)
+	$('.meter.indesign').animate({ width: "70%" }, 600)
+	$('.meter.tb').animate({ width: "90%" }, 600)
+	$('.meter.zurb').animate({ width: "90%" }, 600)
+	$('.meter.aws').animate({ width: "85%" }, 600)
+	$('.meter.heroku').animate({ width: "95%" }, 600)
+	$('.meter.vps').animate({ width: "90%" }, 600)
+	$('.meter.infrastructure').animate({ width: "70%" }, 600)
 
 window.startup = ->
 	$('.meter.test').animate { width: "0%" }, 0, ->
-		$('.meter.test').animate({ width: "80%" }, 600)
-		$('.meter.test2').animate({ width: "80%" }, 600)
+		$('.meter.ruby').animate({ width: "90%" }, 600)
+		$('.meter.javascript').animate({ width: "70%" }, 600)
 
 
 postMap = ->
