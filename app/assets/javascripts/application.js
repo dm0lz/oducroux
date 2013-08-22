@@ -20,6 +20,7 @@
 //= require lib/jquery.isotope.min
 //= require lib/jquery.prettyPhoto
 //= require lib/gmaps
+//= require lib/pdfobject
 //= require home
 
 $(function(){ $(document).foundation(); });

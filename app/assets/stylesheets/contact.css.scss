@@ -1,8 +1,14 @@
-#map{
-	display: block;
-	width: 100% !important;
-	height: 200px !important;
-	img{
-        max-width: none;
-    }
+
+article#contact{
+	height: 700px;
+	background-color: rgb(242, 245, 214);
+	padding-top: 15px;
+	#map{
+		display: block;
+		width: 100% !important;
+		height: 300px !important;
+		img{
+	        max-width: none;
+	    }
+	}
 }

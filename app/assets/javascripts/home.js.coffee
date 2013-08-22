@@ -1,13 +1,16 @@
 
 $ ->
 
+	$('#showpdf').click ->
+		myPDF = new PDFObject({ url: "cv.pdf" }).embed('pdf')
+	
 	###### Gmaps setup ######
 
 	map = new GMaps({ 
 		div: '#map', 
-		lat: 45.77280, 
-		lng: 4.84580, 
-		zoom: 6 
+		lat: 43.612962, 
+		lng: 3.697632, 
+		zoom: 11 
 	})
 	
 	###### initialize Pretty Photos ######
