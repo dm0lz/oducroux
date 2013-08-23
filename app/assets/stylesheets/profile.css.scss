@@ -1,5 +1,5 @@
 article#profile{
-	height: 700px;
+	height: 800px;
 	background-color: rgb(242, 245, 214);
 	//background:rgb(190, 218, 185);
 	//padding-top: 10px;
@@ -7,25 +7,36 @@ article#profile{
 		//background:rgb(151, 215, 221); 
 		//background-color: white;
 		//background:rgb(190, 218, 185); 
-		height: 150px;
+		height: 180px;
 		border-bottom: 5px solid rgb(182, 182, 182);
 		.titre{
+			color: grey;
+			font-family: Dali;
 			text-align: center;
 			position: relative;
-			top: 20px;
-			font-size: 2em;
+			top: 35px;
+			font-size: 3em;
 			font-weight: bold;
 			//color: rgb(146, 113, 70);
 		}
 		h4{
 			position: relative;
-			top: 15px;
+			top: 10px;
 			text-align: center;
+			font-family: Corbert;
+			font-size: 1em;
 		}
 	}
 	.corps{
 		margin-top: 20px;
 		padding: 0px 20px;
+		h3{
+			font-family: Dali;
+			color: rgb(121, 107, 89);
+		}
+		p{
+			font-family: "Corbert";
+		}
 	}
 	.left{
 		background:#C0D2D3; 

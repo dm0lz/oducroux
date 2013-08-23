@@ -1,7 +1,7 @@
 
 $ ->
 
-	$('#showpdf').click ->
+	$('a#documentos').click ->
 		myPDF = new PDFObject({ url: "cv.pdf" }).embed('pdf')
 	
 	###### Gmaps setup ######
