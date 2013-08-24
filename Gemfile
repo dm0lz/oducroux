@@ -49,5 +49,6 @@ end
 gem 'capistrano', group: :development
 gem 'rvm-capistrano', group: :development
 gem 'puma'
+
 # Use debugger
 # gem 'debugger', group: [:development, :test]
