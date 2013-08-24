@@ -1,5 +1,9 @@
+
+@import "icons/*.png";
+@include all-icons-sprites;
+
 article#technologies{
-	height: 850px;
+	height: 790px;
 	background-color: rgb(242, 245, 214);
 	padding: 15px 15px;
 	section.skills{
@@ -11,6 +15,30 @@ article#technologies{
 			text-align: center;
 
 		}
+		h5{
+			height: 16px;
+		}
+		.ruby h5{
+			//background: url('icons/ruby.png') no-repeat;
+			//@include icons-sprite(ruby);
+			//height: 16px;
+		}
+		.javascript h5{
+			//background: image-url('icons/javascript.png') no-repeat;
+			//@include icons-sprite(javascript);
+			//height: 16px;
+		}
+		.html5 h5{
+			//background: image-url('icons/html5.png') no-repeat;
+			//@include icons-sprite(html5);
+			//height: 16px;
+		}
+		.css3 h5{
+			//background: image-url('icons/css3.png') no-repeat;
+			//@include icons-sprite(css3);
+			//height: 16px;
+		}
+
 		article.skillset, .skillset1, .skillset2, .skillset3, .skillset4, .skillset5{
 			margin-bottom: 30px;
 		}

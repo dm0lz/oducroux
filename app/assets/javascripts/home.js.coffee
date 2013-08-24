@@ -3,6 +3,9 @@ $ ->
 
 	$('a#documentos').click ->
 		myPDF = new PDFObject({ url: "cv.pdf" }).embed('pdf')
+
+	$('a#showpdf').click ->
+		$('div#pdf').fadeToggle()
 	
 	###### Gmaps setup ######
 
