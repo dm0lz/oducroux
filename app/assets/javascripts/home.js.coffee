@@ -11,9 +11,9 @@ $ ->
 
 	map = new GMaps({ 
 		div: '#map', 
-		lat: 43.612962, 
-		lng: 3.697632, 
-		zoom: 11 
+		lat: 45.803212, 
+		lng: 4.675676, 
+		zoom: 12 
 	})
 	
 	###### initialize Pretty Photos ######
