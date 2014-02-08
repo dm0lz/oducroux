@@ -24,7 +24,7 @@ set :repository,  "https://github.com/oducroux/#{application}.git"
 set :branch, "master"
 
 default_run_options[:pty] = true
-ssh_options[:forward_agent] = true
+#ssh_options[:forward_agent] = true
 
 #default_run_options[:shell] = '/bin/bash --login'
 
