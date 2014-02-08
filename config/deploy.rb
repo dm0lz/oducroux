@@ -8,9 +8,9 @@ load "config/recipes/puma"
 load "config/recipes/mysql"
 load "config/recipes/rvm"
 
-server "146.185.176.72", :web, :app, :db, :primary => true
+server "oducroux.com", :web, :app, :db, :primary => true
 
-set :site_url, "146.185.176.72"
+set :site_url, "oducroux.com"
 set :application, "oducroux"
 set :user, "deployer"
 
