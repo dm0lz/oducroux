@@ -21,7 +21,7 @@ module Oducroux
       :port                 => 587,
       #:domain               => "yourdomain.dev",
       :user_name            => ENV["GMAIL_USERNAME_ODUCROUX"],
-      :password             => ENV["GMAIL_USERNAME_ODUCROUX"],
+      :password             => ENV["GMAIL_PASSWORD_ODUCROUX"],
       :authentication       => :plain,
       :enable_starttls_auto => true
     }
