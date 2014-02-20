@@ -3,9 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 section.index{
-	//margin-top: 30px;
-	margin-top: 0px;
-	//margin-bottom: 30px;
+	margin-top: 30px;
 }
 
 div#tab-container{
@@ -19,14 +17,9 @@ div#tab-container{
 	section#articles{
 		padding: 10px 10px;
 		background-color: #5C676C;
-		//height: 720px;
 		article#portfolio, article#contact, article#documents, article#technologies{
 			display: none;
 		}
-
-		
-		
-
 	}
 	
 

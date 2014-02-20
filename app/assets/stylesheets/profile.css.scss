@@ -1,86 +1,23 @@
 article#profile{
-	height: 800px;
+	height: 600px;
 	background-color: rgb(242, 245, 214);
-	//background:rgb(190, 218, 185);
-	//padding-top: 10px;
+  .presentation{
+    padding-top: 90px;
+    text-align: center;
+		color: grey;
+		font-family: Comfortaa;
+  }
 	.entete{
-		//background:rgb(151, 215, 221); 
-		//background-color: white;
-		//background:rgb(190, 218, 185); 
-		.subheader{
-			margin-top: 10px;
-		}
-		.headProfile{
-			text-align: center;
-			h1{
-				margin-top: 10px;
-				font-family: Dali;
-			}
-			p{
-				font-family: Corbert;
-			}
-		}
 		height: 180px;
 		border-bottom: 5px solid rgb(182, 182, 182);
-		.titre2{
-			color: grey;
-			font-family: Dali;
-			text-align: center;
-			position: relative;
-			top: 20px;
-			font-size: 2em;
-			font-weight: bold;
-			//color: rgb(146, 113, 70);
-		}
 		.titre{
 			color: grey;
 			font-family: Dali;
 			text-align: center;
 			position: relative;
-			top: 35px;
-			font-size: 3em;
+			top: 40px;
+			font-size: 2.4em;
 			font-weight: bold;
-			//color: rgb(146, 113, 70);
-		}
-		h4{
-			position: relative;
-			top: 10px;
-			text-align: center;
-			font-family: Comfortaa;
-			font-size: 1em;
-		}
-	}
-	.corps{
-		margin-top: 20px;
-		padding: 0px 20px;
-		h3{
-			font-family: Dali;
-			color: rgb(121, 107, 89);
-		}
-		p{
-			font-family: "Corbert";
-		}
-	}
-	.left{
-		background:#C0D2D3; 
-		height: 540px;
-		.leftcontent{
-			//text-align: center;
-			padding: 20px 40px;
-			h4{
-				color: #4C8EA8;
-			}
-		}
-	}
-	.right{
-		background:#F8F8B2; 
-		height: 540px;
-		border-left: 5px solid rgb(182, 182, 182);
-		.textcontent{
-			padding: 20px 40px;
-			h3{
-				color: #6f6f6f;
-			}
 		}
 	}
 }

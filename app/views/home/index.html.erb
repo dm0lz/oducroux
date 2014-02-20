@@ -8,11 +8,12 @@
 
 			<ul class='etabs' id="navigation-menu">
 
-				<li class='tab'><a id="perfil" href="#profile"><i class="foundicon-address-book"></i>&nbsp;&nbsp;<span>Profile</span></a></li>
-				<li class='tab'><a id="technos" href="#technologies"><i class="foundicon-tools"></i>&nbsp;&nbsp;<span>Tools</span></a></li>
-				<li class='tab'><a id="documentos" href="#documents"><i class="foundicon-paper-clip"></i>&nbsp;&nbsp;<span>Curriculum</span></a></li>
+				<li class='tab'><a href="#profile"><i class="foundicon-address-book"></i>&nbsp;&nbsp;<span>About</span></a></li>
+				<li class='tab'><a href="#technologies"><i class="foundicon-tools"></i>&nbsp;&nbsp;<span>Tools</span></a></li>
+        <!--<li class='tab'><a href="#services"><i class="foundicon-address-book"></i>&nbsp;&nbsp;<span>Services</span></a></li>-->
+        <!--<li class='tab'><a id="documentos" href="#documents"><i class="foundicon-paper-clip"></i>&nbsp;&nbsp;<span>Curriculum</span></a></li>-->
 				<!--<li class='tab'><a id="portfo" href="#portfolio"><i class="foundicon-edit"></i>&nbsp;&nbsp;<span>Portfolio</span></a></li>-->
-				<li class='tab'><a id="contactos" href="#contact"><i class="foundicon-mail"></i>&nbsp;&nbsp;<span>Contact</span></a></li>
+				<li class='tab'><a href="#contact"><i class="foundicon-mail"></i>&nbsp;&nbsp;<span>Contact</span></a></li>
 
 			</ul>
 
@@ -30,21 +31,27 @@
 
 				</article>
 <!--
+				<article id="services" class="services">
+
+					<%#= render "services" %>
+
+				</article>
+
 				<article id="portfolio" class="deuxieme">
 
 					<%#= render "portfolio" %>
 
 				</article>
--->
 				<article id="documents" class="quatrieme">
 
-					<%= render "documents" %>
+					<%#= render "documents" %>
 
 				</article>
+-->
 
 				<article id="contact" class="troisieme">
 
-					<%= render "contact" %>
+					<%= render "contact/contact" %>
 
 				</article>
 

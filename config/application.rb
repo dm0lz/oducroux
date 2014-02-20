@@ -15,6 +15,16 @@ module Oducroux
   class Application < Rails::Application
 
     config.compass.images_dir = '/public'
+
+    config.action_mailer.smtp_settings = {
+      :address              => "smtp.gmail.com",
+      :port                 => 587,
+      #:domain               => "yourdomain.dev",
+      :user_name            => ENV["GMAIL_USERNAME"],
+      :password             => ENV["GMAIL_USERNAME"],
+      :authentication       => :plain,
+      :enable_starttls_auto => true
+    }
     #config.generated_images_dir = '/app/assets/images'
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers

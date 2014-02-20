@@ -6,6 +6,9 @@ Oducroux::Application.routes.draw do
   # You can have the root of your site routed with "root"
   root 'home#index'
 
+  #match 'contact' => 'contact#new', :via => :get
+  match 'contact' => 'contact#create', :as => 'contact', :via => :post
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 

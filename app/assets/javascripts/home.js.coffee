@@ -112,10 +112,10 @@ window.startup = ->
 		$('.meter.javascript').animate({ width: "70%" }, 600)
 
 
-postMap = ->
+#postMap = ->
 	#setTimeout (-> google.maps.event.trigger(map, 'resize') ), 1000
 	#setTimeout (-> alert "hh" ), 1000
-	setTimeout (-> map.refresh() ), 10
+  #setTimeout (-> map.refresh() ), 10
 
 
 

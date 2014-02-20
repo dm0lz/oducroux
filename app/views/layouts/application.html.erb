@@ -22,8 +22,15 @@
 
   <body>
 
-      
-        <h4 style="text-align:center;margin-top:10px;">Website under construction.</h4>
+
+    <div class="row">
+		  <% if flash[:notice] %><br/>
+		    	<p class="alert alert-success"><%= notice %></p>
+		  <% end %>
+		  <% if flash[:alert] %><br/>
+		    	<p class="alert alert-error"><%= alert %></p> 
+		  <% end %>
+    </div>
       
     <%= yield %>
 
