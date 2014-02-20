@@ -20,8 +20,8 @@ module Oducroux
       :address              => "smtp.gmail.com",
       :port                 => 587,
       #:domain               => "yourdomain.dev",
-      :user_name            => ENV["GMAIL_USERNAME"],
-      :password             => ENV["GMAIL_USERNAME"],
+      :user_name            => ENV["GMAIL_USERNAME_ODUCROUX"],
+      :password             => ENV["GMAIL_USERNAME_ODUCROUX"],
       :authentication       => :plain,
       :enable_starttls_auto => true
     }
