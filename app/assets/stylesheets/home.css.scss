@@ -42,3 +42,18 @@ div#tab-container{
 }
 
 
+@media only screen and (max-width: 350px) {
+  p.titre{
+    font-size: 1.7em !important;
+  }
+  ul#navigation-menu li.tab a{
+    font-size: 0.6em !important;
+  }
+  article#technologies h5{
+    font-size: 0.3em !important;
+    padding-left: 11px;
+  }
+  article#technologies h4{
+    font-size: 0.6em !important;
+  }
+}
