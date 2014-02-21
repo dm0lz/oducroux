@@ -17,6 +17,11 @@ body{
 	background: url('/fond.png') repeat;
 
 	height: 100%;
+
+  .email_sent{
+    background-color: rgb(242, 245, 214) !important;
+    color: grey !important;
+  }
 }
 
 @font-face{ 
