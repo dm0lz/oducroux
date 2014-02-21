@@ -1,8 +1,11 @@
 
 article#contact{
-	height: 690px;
+	//height: 690px;
+  .social-icons{
+    padding-bottom: 20px;
+  }
 	background-color: rgb(242, 245, 214);
-	padding-top: 15px;
+	//padding-top: 15px;
 	#map{
 		display: block;
 		width: 100% !important;
