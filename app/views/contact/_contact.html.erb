@@ -6,20 +6,20 @@
 
   <%= form_for @message, :url => contact_path do |form| %>
     <fieldset>
-	    <legend>Ecrivez-moi</legend>
+	    <legend>Drop me a line</legend>
 	    <div class="row">
         <div class="large-6 columns">
-          <%= form.label "Votre Nom" %>
+          <%= form.label "Your Name" %>
           <%= form.text_field :name %>
         </div>
         <div class="large-6 columns">
-          <%= form.label "Votre Email" %>
+          <%= form.label "Your Email" %>
           <%= form.text_field :email %>
         </div>
       </div>
 	    <div class="row">
         <div class="large-12 columns">
-          <%= form.label "Votre Message" %>
+          <%= form.label "Your Message" %>
           <%= form.text_area :body %>
         </div>
       </div>
