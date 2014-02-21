@@ -8642,26 +8642,50 @@ div#tab-container section#articles article#portfolio, div#tab-container section#
   display: none;
 }
 
+@media only screen and (max-width: 420px) {
+  /* line 29, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/home.css.scss */
+  p.titre {
+    font-size: 1.9em !important;
+  }
+
+  /* line 32, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/home.css.scss */
+  ul#navigation-menu li.tab a {
+    font-size: 0.8em !important;
+  }
+
+  /* line 35, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/home.css.scss */
+  article#technologies h5 {
+    font-size: 0.4em !important;
+    padding-left: 11px;
+  }
+
+  /* line 39, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/home.css.scss */
+  article#technologies h4 {
+    font-size: 0.8em !important;
+  }
+}
 /* line 2, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
 ul#navigation-menu {
   height: 55px;
 }
 
-/* line 8, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
+/* line 6, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
+ul#navigation-menu {
+  list-style: none;
+}
+/* line 9, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
 ul#navigation-menu li.tab {
   float: left;
-  height: 55px;
-  width: 170px;
-  margin-right: 1px;
-  display: block;
   background-color: orange;
   -webkit-border-radius: 5px 5px 0 0;
   -moz-border-radius: 5px 5px 0 0;
   -ms-border-radius: 5px 5px 0 0;
   -o-border-radius: 5px 5px 0 0;
   border-radius: 5px 5px 0 0;
+  padding: 0 5px 0 5px;
+  margin: 0 1px;
 }
-/* line 18, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
+/* line 21, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
 ul#navigation-menu li.tab a {
   font-family: Corbert;
   font-weight: bold;
@@ -8682,16 +8706,16 @@ ul#navigation-menu li.tab a {
   -o-transition: background-color, 0.7s;
   transition: background-color, 0.7s;
 }
-/* line 31, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
+/* line 34, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
 ul#navigation-menu li.tab a:hover {
   background-color: white;
 }
-/* line 35, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
+/* line 38, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
 ul#navigation-menu li.tab a i {
   position: relative;
   top: 2px;
 }
-/* line 41, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
+/* line 44, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/navigation.css.scss */
 ul#navigation-menu li.tab a.active {
   background-color: white;
 }
@@ -8717,7 +8741,7 @@ article#portfolio section.portfolio-wrapper div.thumb-info p {
 
 /* line 2, /Users/molz/Desktop/Rails_Arena/oducroux/app/assets/stylesheets/contact.css.scss */
 article#contact {
-  height: 710px;
+  height: 690px;
   background-color: #f2f5d6;
   padding-top: 15px;
 }
@@ -8759,8 +8783,8 @@ article#profile .entete .titre {
   font-family: Dali;
   text-align: center;
   position: relative;
-  top: 40px;
-  font-size: 2.4em;
+  top: 35px;
+  font-size: 2.6em;
   font-weight: bold;
 }
 

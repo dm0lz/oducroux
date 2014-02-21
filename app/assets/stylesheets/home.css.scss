@@ -24,3 +24,21 @@ div#tab-container{
 	
 
 }
+
+@media only screen and (max-width: 420px) {
+  p.titre{
+    font-size: 1.9em !important;
+  }
+  ul#navigation-menu li.tab a{
+    font-size: 0.8em !important;
+  }
+  article#technologies h5{
+    font-size: 0.4em !important;
+    padding-left: 11px;
+  }
+  article#technologies h4{
+    font-size: 0.8em !important;
+  }
+}
+
+
