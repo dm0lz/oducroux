@@ -31,51 +31,16 @@
 		    	<p class="alert-box alert"><%= alert %></p> 
 		  <% end %>
     </div>
-      
+
+
     <%= yield %>
 
-    
+
     <%= javascript_include_tag "application" %>
 
-    <script type="text/javascript">
-        $(document).ready(function(){
-            /*$('#tab-container').easytabs({
-              transitionOut: "slideUp",
-              transitionIn: "slideDown"
-            });*/
-            /*$('#tab-container').bind('easytabs:after', function() {
-              progress();
-            });*/
-        /*
-          var $container = $('#container');
-          $container.isotope({
-            // options
-            //itemSelector : '.item',
-            //layoutMode : 'fitRows',
-            //filter: '.divers'
-          });
-          $('#filters a').click(function(){
-            var selector = $(this).attr('data-filter');
-            $container.isotope({ filter: selector });
-            return false;
-          });
-          
-          window.onload = function () { 
-            alert("It's loaded!");
-            $('.meter').animate({ width: "0%" }, 0);
-          }*/
-          //$("a[rel^='prettyPhoto']").prettyPhoto();
-
-            window.onload = function(){
-              //startup();
-            }
-
-            
-
-
-          });
-
-    </script>
-    
   </body>
+
 </html>
+
+
+
