@@ -5,9 +5,9 @@ $ ->
 
 	map = new GMaps({ 
 		div: '#map', 
-		lat: 45.803212, 
-		lng: 4.675676, 
-		zoom: 12 
+		lat: 45.774299, 
+		lng: 4.797719, 
+		zoom: 14
 	})
 
 	###### easyTabs callback ######
@@ -33,9 +33,13 @@ $ ->
 
 progress = ->
 	$('.meter.ruby').animate({ width: "90%" }, 600)
-	$('.meter.javascript').animate({ width: "80%" }, 600)
+	$('.meter.javascript').animate({ width: "85%" }, 600)
+	$('.meter.php').animate({ width: "80%" }, 600)
+	$('.meter.java').animate({ width: "60%" }, 600)
 	$('.meter.html5').animate({ width: "90%" }, 600)
 	$('.meter.css3').animate({ width: "90%" }, 600)
+	$('.meter.haml').animate({ width: "90%" }, 600)
+	$('.meter.sass').animate({ width: "90%" }, 600)
 	$('.meter.ror').animate({ width: "90%" }, 600)
 	$('.meter.sinatra').animate({ width: "90%" }, 600)
 	$('.meter.jquery').animate({ width: "90%" }, 600)
@@ -43,9 +47,9 @@ progress = ->
 	$('.meter.backbone').animate({ width: "55%" }, 600)
 	$('.meter.angular').animate({ width: "65%" }, 600)
 	$('.meter.mysql').animate({ width: "90%" }, 600)
-	$('.meter.pg').animate({ width: "75%" }, 600)
-	$('.meter.mongo').animate({ width: "75%" }, 600)
-	$('.meter.redis').animate({ width: "60%" }, 600)
+	$('.meter.pg').animate({ width: "70%" }, 600)
+	$('.meter.mongo').animate({ width: "85%" }, 600)
+	$('.meter.redis').animate({ width: "80%" }, 600)
 	$('.meter.linux').animate({ width: "95%" }, 600)
 	$('.meter.admin').animate({ width: "80%" }, 600)
 	$('.meter.networking').animate({ width: "80%" }, 600)
