@@ -2,6 +2,10 @@ html{
 	height: 100%;
 }
 
+.progress.success .meter{
+  //background: #b6b6b6 !important;
+}
+
 body{
 	background: url('/fond.png') repeat;
 	height: 100%;

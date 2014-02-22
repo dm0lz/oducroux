@@ -5,8 +5,8 @@
 <div class="form">
 
   <%= form_for @message, :url => contact_path do |form| %>
-    <fieldset>
-	    <legend>Drop me a line</legend>
+    <fieldset class="formulaire">
+	    <legend class="dropmeline">Drop me a line</legend>
 	    <div class="row">
         <div class="large-6 columns">
           <%= form.label "Your Name" %>
@@ -20,11 +20,11 @@
 	    <div class="row">
         <div class="large-12 columns">
           <%= form.label "Your Message" %>
-          <%= form.text_area :body %>
+          <%= form.text_area :body, :class => "contacttextarea" %>
         </div>
       </div>
       <div class="actions">
-        <%= form.submit "Send", :style => "float:right;", :class => 'button' %>
+        <%= form.submit "Send", :style => "float:right;", :class => 'button sendbutton' %>
       </div>
     </fieldset>
   <% end %>
